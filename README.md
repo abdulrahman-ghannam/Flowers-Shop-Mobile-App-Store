@@ -10,7 +10,6 @@ Flutter Flowers Plant shop using Firebase
 
 ![](https://i.imgur.com/S9dEtdE.png)
 
-#### Design Credit [Natan Jabłoński](https://dribbble.com/shots/11316448-Flowers-Shop-Mobile-App-Store)
 
 
 
